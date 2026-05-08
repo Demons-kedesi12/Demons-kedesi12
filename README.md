@@ -34,8 +34,6 @@
 
 </details>
 
-</details>
-
 <details>
 <summary><strong> My Skills </strong> 🦾</summary>
   
@@ -46,6 +44,11 @@
 - Notion
 - Basic of Java
 - Basic of Python
+
+</details>
+
+<details>
+<summary><strong> My Projects </strong> <📖/summary>
 
 </details>
 
