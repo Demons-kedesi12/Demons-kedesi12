@@ -14,7 +14,7 @@
  </p>
 
 <details>
-<summary><strong>My Experiences</strong> 💼</summary>
+<summary><strong>My Experiences</strong> 💼 </summary>
 
 - <strong> Assistant at Ateliê de Cerâmica Silvana Palma (2025 - 2026)</strong>
 
@@ -26,7 +26,7 @@
 </details>
 
 <details>
-<summary><strong> My Education</strong> 🎓</summary>
+<summary><strong> My Education</strong> 🎓 </summary>
 
 - High School Completed on Colégio Londrinense (2025)
 - English Course Completed on Instituto Cultural (2025)
@@ -35,7 +35,7 @@
 </details>
 
 <details>
-<summary><strong> My Skills </strong> 🦾</summary>
+<summary><strong> My Skills </strong> 🦾 </summary>
   
 - Fast Learner
 - Strong Interpersonal Skills
@@ -48,7 +48,7 @@
 </details>
 
 <details>
-<summary><strong> My Projects </strong> <📖/summary>
+<summary><strong> My Projects </strong> 📖 </summary>
 
 </details>
 
