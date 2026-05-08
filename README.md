@@ -8,9 +8,9 @@
 <p align="center", margin-top = 3px>
 𝕀'𝕞 𝕄𝕒𝕣𝕚𝕒 ℙ𝕒𝕝𝕞𝕒, 𝕒 𝟙𝟟-𝕪𝕖𝕒𝕣-𝕠𝕝𝕕 ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣 𝕊𝕔𝕚𝕖𝕟𝕔𝕖 𝕊𝕥𝕦𝕕𝕖𝕟𝕥 𝕒𝕥 𝕌𝕟𝕚𝔽𝕚𝕝 (ℂ𝕖𝕟𝕥𝕣𝕠 𝕌𝕟𝕚𝕧𝕖𝕣𝕤𝕚𝕥á𝕣𝕚𝕠 𝔽𝕚𝕝𝕒𝕕é𝕝𝕗𝕚𝕒), 𝔹𝕣𝕒𝕫𝕚𝕝.</p>
 
-<h2 align="center"> ⚜ Curiosities! ⚜ </h2>
+<h2 align="center"> ⚜ 𝑻𝒉𝒊𝒔 𝑰𝒔 𝑴𝒆 ⚜ </h2>
 
- <p align="center"> More Informations About Me Here: <a href="https://sites.google.com/edu.unifil.br/portflio-maria-palma/in%C3%ADcio"> My Portfolio!</a>
+ <p align="center"> ᴍᴏʀᴇ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴꜱ ᴀʙᴏᴜᴛ ᴍᴇ ʜᴇʀᴇ: <a href="https://sites.google.com/edu.unifil.br/portflio-maria-palma/in%C3%ADcio"> ᴍʏ ᴘᴏʀᴛꜰᴏʟɪᴏ!</a>
  </p>
 
 <details>
@@ -26,7 +26,7 @@
 </details>
 
 <details>
-<summary><strong> Education</strong> 🎓</summary>
+<summary><strong> My Education</strong> 🎓</summary>
 
 - High School Completed on Colégio Londrinense (2025)
 - English Course Completed on Instituto Cultural (2025)
@@ -37,11 +37,15 @@
 </details>
 
 <details>
-<summary><strong> Education</strong> 🎓</summary>
-
-- High School Completed on Colégio Londrinense (2025)
-- English Course Completed on Instituto Cultural (2025)
-- Londrinense Tech Course Completed on UniFil (2025)
+<summary><strong> My Skills </strong> 🦾</summary>
+  
+- Fast Learner
+- Strong Interpersonal Skills
+- Proactive
+- Figma
+- Notion
+- Basic of Java
+- Basic of Python
 
 </details>
 
