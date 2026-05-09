@@ -35,15 +35,24 @@
 </details>
 
 <details>
-<summary><strong> My Skills </strong> 🦾 </summary>
+<summary><strong> My Soft Skills </strong> 🦾 </summary>
   
 - Fast Learner
 - Strong Interpersonal Skills
 - Proactive
-- Figma
-- Notion
-- Basic of Java
-- Basic of Python
+- Structured Thinking
+
+</details>
+
+<details>
+<summary><strong> My Languages & Tools </strong> 🦾 </summary>
+  
+- Notion☑️
+- Figma🔁
+- Portugol📞
+- Flowgorithm🟦
+- Basics of Java♨️
+- Basics of Python🐍
 
 </details>
 
