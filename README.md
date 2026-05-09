@@ -10,8 +10,8 @@
 
 <h2 align="center"> ⚜ 𝑻𝒉𝒊𝒔 𝑰𝒔 𝑴𝒆 ⚜ </h2>
 
- <p align="center"> ᴍᴏʀᴇ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴꜱ ᴀʙᴏᴜᴛ ᴍᴇ ʜᴇʀᴇ: <a href="https://sites.google.com/edu.unifil.br/portflio-maria-palma/in%C3%ADcio"> ᴍʏ ᴘᴏʀᴛꜰᴏʟɪᴏ!</a>
- </p>
+ <h3 align="center"> ᴍᴏʀᴇ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴꜱ ᴀʙᴏᴜᴛ ᴍᴇ ʜᴇʀᴇ: <a href="https://sites.google.com/edu.unifil.br/portflio-maria-palma/in%C3%ADcio"> ᴍʏ ᴘᴏʀᴛꜰᴏʟɪᴏ!</a>
+ </h3>
 
 <details>
 <summary><strong>My Experiences</strong> 💼 </summary>
@@ -63,7 +63,39 @@
 - Pitchs🪟
 - Slide Apresentations💡
 - Figma Projects☀️
-- And More on my Portfolio!
-- 
+- And More on My Portfolio!
 </details>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emilycaputi28&layout=compact&theme=tokyonight" alt="Top langs" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Demons-kedesi12&theme=tokyonight" alt="GitHub streak" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center"> ⚜ 𝑻𝒉𝒂𝒏𝒌 𝒀𝒐𝒖! 𝑩𝒂-𝑩𝒚𝒆! ⚜</h2>
+
+<p align="center" > How to Contact Me: </p>
+
+<p align="center">
+  <a href="www.linkedin.com/in/maria-eduarda-palma">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="36" height="36" />
+  </a>
+  <a href="https://www.instagram.com/midu_palma12/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="36" height="36" />
+  </a>
+    <p align="center">ᴇᴍᴀɪʟ ᴘᴇꜱꜱᴏᴀʟ: ᴍᴀʀɪᴀᴇᴅᴜᴀʀᴅᴀᴀᴠᴘᴀʟᴍᴀ@ɢᴍᴀɪʟ.ᴄᴏm</p>
+    <p align="center">ᴇᴍᴀɪʟ ɪɴꜱᴛɪᴛᴜᴄɪᴏɴᴀʟ: ᴍᴀʀɪᴀ.ᴘᴀʟᴍᴀ@ᴇᴅᴜ.ᴜɴɪꜰɪʟ.ʙʀ</p>
+
+</p>
+
+<img width="900" height="280" alt="Head" src="https://github.com/user-attachments/assets/3e28e234-d970-4cb1-a7d7-b18465e3fd67" />
 
