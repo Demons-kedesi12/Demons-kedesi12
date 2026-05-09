@@ -45,7 +45,7 @@
 </details>
 
 <details>
-<summary><strong> My Languages & Tools </strong> 🦾 </summary>
+<summary><strong> My Languages & Tools </strong> 🛠️ </summary>
   
 - Notion☑️
 - Figma🔁
@@ -58,6 +58,12 @@
 
 <details>
 <summary><strong> My Projects </strong> 📖 </summary>
-
+  
+- Portfólio📒
+- Pitchs🪟
+- Slide Apresentations💡
+- Figma Projects☀️
+- And More on my Portfolio!
+- 
 </details>
 
