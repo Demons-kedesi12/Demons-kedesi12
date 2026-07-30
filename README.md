@@ -7,7 +7,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/typing-card?user=Demons-kedesi12&lines=Welcome%20to%20my%20GitHub!%7CFull%20Stack%20Developer%7CAlways%20learning%20new%20technologies%7Cgithub.com%2FDemons-kedesi12&theme=dark&background=transparent&textColor=7C3AED">
-  <img alt="Typing Intro" src="https://coolreadme.xyz/api/typing-card?user=Demons-kedesi12&lines=Welcome%20to%20my%20GitHub!%7CFull%20Stack%20Developer%7CAlways%20learning%20new%20technologies%7Cgithub.com%2FDemons-kedesi12&theme=light&background=transparent&textColor=6D28D9">
+  <img alt="Typing Intro" src="https://coolreadme.xyz/api/typing-card?user=Demons-kedesi12&lines=Welcome%20to%20my%20GitHub!%7CHappy%20Developer%7CAlways%20learning%20new%20technologies%7Cgithub.com%2FDemons-kedesi12&theme=light&background=transparent&textColor=6D28D9">
 </picture>
 
 <p align="center", margin-top = 3px>
