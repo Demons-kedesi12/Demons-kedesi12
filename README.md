@@ -5,8 +5,19 @@
 
 <img width="900" height="500" alt="SupGuys-ezgif com-optimize" src="https://github.com/user-attachments/assets/86068d05-a0bb-44e0-aaac-dc3944aee0f4" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/hero-banner?user=Demons-kedesi12&title=Demons-kedesi12&subtitle=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&theme=dark">
+  <img alt="Demons-kedesi12 Hero" src="https://coolreadme.xyz/api/hero-banner?user=Demons-kedesi12&title=Demons-kedesi12&subtitle=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&theme=light">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/typing-card?user=Demons-kedesi12&lines=Welcome%20to%20my%20GitHub!%7CFull%20Stack%20Developer%7CAlways%20learning%20new%20technologies%7Cgithub.com%2FDemons-kedesi12&theme=dark">
+  <img alt="Typing Intro" src="https://coolreadme.xyz/api/typing-card?user=Demons-kedesi12&lines=Welcome%20to%20my%20GitHub!%7CFull%20Stack%20Developer%7CAlways%20learning%20new%20technologies%7Cgithub.com%2FDemons-kedesi12&theme=light">
+</picture>
+
 <p align="center", margin-top = 3px>
 𝕀'𝕞 𝕄𝕒𝕣𝕚𝕒 ℙ𝕒𝕝𝕞𝕒, 𝕒 𝟙𝟟-𝕪𝕖𝕒𝕣-𝕠𝕝𝕕 ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣 𝕊𝕔𝕚𝕖𝕟𝕔𝕖 𝕊𝕥𝕦𝕕𝕖𝕟𝕥 𝕒𝕥 𝕌𝕟𝕚𝔽𝕚𝕝 (ℂ𝕖𝕟𝕥𝕣𝕠 𝕌𝕟𝕚𝕧𝕖𝕣𝕤𝕚𝕥á𝕣𝕚𝕠 𝔽𝕚𝕝𝕒𝕕é𝕝𝕗𝕚𝕒), 𝔹𝕣𝕒𝕫𝕚𝕝.</p>
+
 
 <h2 align="center"> ⚜ 𝑻𝒉𝒊𝒔 𝑰𝒔 𝑴𝒆 ⚜ </h2>
 
