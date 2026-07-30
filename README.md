@@ -6,8 +6,8 @@
 <img width="900" height="500" alt="SupGuys-ezgif com-optimize" src="https://github.com/user-attachments/assets/86068d05-a0bb-44e0-aaac-dc3944aee0f4" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/typing-card?user=Demons-kedesi12&lines=Welcome%20to%20my%20profile!%7CFull%20Stack%20Developer%7CAlways%20learning%7Cgithub.com%2FDemons-kedesi12&theme=midnight">
-  <img alt="Typing" src="https://coolreadme.xyz/api/typing-card?user=Demons-kedesi12&lines=Welcome%20to%20my%20profile!%7CFull%20Stack%20Developer%7CAlways%20learning%7Cgithub.com%2FDemons-kedesi12&theme=midnight">
+  <source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/typing-card?user=Demons-kedesi12&lines=Welcome%20to%20my%20GitHub!%7CFull%20Stack%20Developer%7CAlways%20learning%20new%20technologies%7Cgithub.com%2FDemons-kedesi12&theme=dark&background=transparent&textColor=7C3AED">
+  <img alt="Typing Intro" src="https://coolreadme.xyz/api/typing-card?user=Demons-kedesi12&lines=Welcome%20to%20my%20GitHub!%7CFull%20Stack%20Developer%7CAlways%20learning%20new%20technologies%7Cgithub.com%2FDemons-kedesi12&theme=light&background=transparent&textColor=6D28D9">
 </picture>
 
 <p align="center", margin-top = 3px>
