@@ -71,7 +71,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emilycaputi28&layout=compact&theme=tokyonight" alt="Top langs" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Demons-kedesi12&layout=compact&theme=tokyonight" alt="Top langs" />
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Demons-kedesi12&theme=tokyonight" alt="GitHub streak" />
