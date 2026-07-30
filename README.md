@@ -5,12 +5,17 @@
 
 <img width="900" height="500" alt="SupGuys-ezgif com-optimize" src="https://github.com/user-attachments/assets/86068d05-a0bb-44e0-aaac-dc3944aee0f4" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/typing-card?user=Demons-kedesi12&lines=Welcome%20to%20my%20GitHub!%7CFull%20Stack%20Developer%7CAlways%20learning%20new%20technologies%7Cgithub.com%2FDemons-kedesi12&theme=dark&background=transparent&textColor=7C3AED">
-  <img alt="Typing Intro" src="https://coolreadme.xyz/api/typing-card?user=Demons-kedesi12&lines=Welcome%20to%20my%20GitHub!%7CHappy%20Developer%7CAlways%20learning%20new%20technologies%7Cgithub.com%2FDemons-kedesi12&theme=light&background=transparent&textColor=6D28D9">
-</picture>
-
 <p align="center", margin-top = 3px>
+
+  <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8000FF&center=true&vCenter=true&width=600&lines=Software+Developer;Java+%7C+Python+%7C+Web+Development;Always+Building+Something..." />
+
+<br>
+
+> "Discipline, Persistence and Evolution."
+
+</div>
 𝕀'𝕞 𝕄𝕒𝕣𝕚𝕒 ℙ𝕒𝕝𝕞𝕒, 𝕒 𝟙𝟟-𝕪𝕖𝕒𝕣-𝕠𝕝𝕕 ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣 𝕊𝕔𝕚𝕖𝕟𝕔𝕖 𝕊𝕥𝕦𝕕𝕖𝕟𝕥 𝕒𝕥 𝕌𝕟𝕚𝔽𝕚𝕝 (ℂ𝕖𝕟𝕥𝕣𝕠 𝕌𝕟𝕚𝕧𝕖𝕣𝕤𝕚𝕥á𝕣𝕚𝕠 𝔽𝕚𝕝𝕒𝕕é𝕝𝕗𝕚𝕒), 𝔹𝕣𝕒𝕫𝕚𝕝.</p>
 
 
@@ -53,12 +58,13 @@
 <details>
 <summary><strong> My Languages & Tools </strong> 🛠️ </summary>
   
-- Notion☑️
-- Figma🔁
-- Portugol📞
-- Flowgorithm🟦
-- Basics of Java♨️
-- Basics of Python🐍
+<div align="center">
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode" />
+</p>
+
+</div>
 
 </details>
 
