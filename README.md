@@ -108,5 +108,5 @@
 
 </p>
 
-<img width="900" height="280" alt="Head" src="https://github.com/user-attachments/assets/3e28e234-d970-4cb1-a7d7-b18465e3fd67" />
+<img align="center" width="900" height="280" alt="Head" src="https://github.com/user-attachments/assets/3e28e234-d970-4cb1-a7d7-b18465e3fd67" />
 
