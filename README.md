@@ -6,11 +6,6 @@
 <img width="900" height="500" alt="SupGuys-ezgif com-optimize" src="https://github.com/user-attachments/assets/86068d05-a0bb-44e0-aaac-dc3944aee0f4" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/hero-banner?user=Demons-kedesi12&title=Demons-kedesi12&subtitle=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&theme=dark">
-  <img alt="Demons-kedesi12 Hero" src="https://coolreadme.xyz/api/hero-banner?user=Demons-kedesi12&title=Demons-kedesi12&subtitle=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&theme=light">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/typing-card?user=Demons-kedesi12&lines=Welcome%20to%20my%20GitHub!%7CFull%20Stack%20Developer%7CAlways%20learning%20new%20technologies%7Cgithub.com%2FDemons-kedesi12&theme=dark">
   <img alt="Typing Intro" src="https://coolreadme.xyz/api/typing-card?user=Demons-kedesi12&lines=Welcome%20to%20my%20GitHub!%7CFull%20Stack%20Developer%7CAlways%20learning%20new%20technologies%7Cgithub.com%2FDemons-kedesi12&theme=light">
 </picture>
