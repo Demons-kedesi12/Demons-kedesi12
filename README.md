@@ -30,8 +30,10 @@
 
 - <strong>Student at UniFil( 2026 - Today) </strong>   
 
-- <strong>Student Tutor at UniFil ( 2026 - Today )</strong>
-  - Londrinense Tech & Pensamento Computacional: Intermediate Class 4, Teacher Victor
+- <strong> Student Tutor at UniFil( 2026 - Today )</strong>
+  - Londrinense Tech: Intermediate Class 4, Instructor Victor
+  - Pensamento Computacional: Basic Class AB & E, Instructor Felipe & Victor
+
 
 </details>
 
